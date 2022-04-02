@@ -1,3 +1,3 @@
 # Student-Grading-System
-program for CSVReader file
+program for CSVReader.java file
 and resourse for grades.csv
